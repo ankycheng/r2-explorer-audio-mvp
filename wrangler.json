@@ -13,6 +13,11 @@
       "binding": "bucket",
       "bucket_name": "r2-explorer-bucket-audio-mvp",
       "preview_bucket_name": "r2-explorer-bucket"
+    },
+    {
+      "binding": "bucket",
+      "bucket_name": "audio-mvp-storage",
+      "preview_bucket_name": "r2-explorer-audio-mvp"
     }
   ],
   "observability": {
